@@ -1,0 +1,12 @@
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\bin\Debug\net6.0\CalculoString.deps.json
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\bin\Debug\net6.0\CalculoString.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\bin\Debug\net6.0\CalculoString.pdb
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\CalculoString.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\CalculoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\CalculoString.AssemblyInfoInputs.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\CalculoString.AssemblyInfo.cs
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\CalculoString.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\CalculoString.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\refint\CalculoString.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\CalculoString.pdb
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ClaculoString\ClaculoString\obj\Debug\net6.0\ref\CalculoString.dll

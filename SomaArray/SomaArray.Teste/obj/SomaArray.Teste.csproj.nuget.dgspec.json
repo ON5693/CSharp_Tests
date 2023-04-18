@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray.Teste\\SomaArray.Teste.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray.Teste\\SomaArray.Teste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray.Teste\\SomaArray.Teste.csproj",
+        "projectName": "SomaArray.Teste",
+        "projectPath": "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray.Teste\\SomaArray.Teste.csproj",
+        "packagesPath": "C:\\Users\\otavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray.Teste\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\otavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray\\SomaArray.csproj": {
+                "projectPath": "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray\\SomaArray.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray\\SomaArray.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray\\SomaArray.csproj",
+        "projectName": "SomaArray",
+        "projectPath": "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray\\SomaArray.csproj",
+        "packagesPath": "C:\\Users\\otavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\otavi\\OneDrive\\Documentos\\Projetos\\DotNet\\SomaArray\\SomaArray\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\otavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

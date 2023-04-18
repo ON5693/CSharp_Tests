@@ -1,0 +1,12 @@
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\bin\Debug\net6.0\ObjetosDuplicados.deps.json
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\bin\Debug\net6.0\ObjetosDuplicados.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\bin\Debug\net6.0\ObjetosDuplicados.pdb
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ObjetosDuplicados.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ObjetosDuplicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ObjetosDuplicados.AssemblyInfoInputs.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ObjetosDuplicados.AssemblyInfo.cs
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ObjetosDuplicados.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ObjetosDuplicados.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\refint\ObjetosDuplicados.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ObjetosDuplicados.pdb
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\ObjetosDuplicados\ObjetosDuplicados\obj\Debug\net6.0\ref\ObjetosDuplicados.dll

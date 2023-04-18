@@ -1,0 +1,12 @@
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\bin\Debug\net6.0\numeros-escritos.deps.json
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\bin\Debug\net6.0\numeros-escritos.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\bin\Debug\net6.0\numeros-escritos.pdb
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\numeros-escritos.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\numeros-escritos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\numeros-escritos.AssemblyInfoInputs.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\numeros-escritos.AssemblyInfo.cs
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\numeros-escritos.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\numeros-escritos.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\refint\numeros-escritos.dll
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\numeros-escritos.pdb
+C:\Users\otavi\OneDrive\Documentos\Projetos\DotNet\NumerosExtensos\numeros-escritos\obj\Debug\net6.0\ref\numeros-escritos.dll
